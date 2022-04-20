@@ -32,18 +32,19 @@ Here are the lab codes for SUSTech EE346 lab4.
 ## 5. Launch the gazebo map
   roslaunch lane_following race_track.launch 
    
+## 6. Run part1 python node  
+  (Open a new terminal) 
+   
   cd ~/catkin_ws
    
   source devel/setup.bash
    
-## 5. Run part1 python node
-   
   rosrun lane_following lane_following_part1.py
    
-## 6. Run part2 python node
+## 7. Run part2 python node
    
   rosrun lane_following lane_following_part2.py
    
-## 7. Run part3 python node
+## 8. Run part3 python node
    
   rosrun lane_following lane_following_part3.py
