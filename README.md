@@ -16,12 +16,12 @@ Here are the lab codes for SUSTech EE346 lab4.
   catkin_make
 
 ## 3. Add course models
-  export GAZEBO_MODEL_PATH=${GAZEBO_MODEL_PATH}:~/catkin_ws/src/lane_following/models
+  export GAZEBO_MODEL_PATH=${GAZEBO_MODEL_PATH}:~/catkin_ws/src/EE346-lab4/lane_following/models
   
   source ~/catkin_ws/devel/setup.bash
    
 ## 4. Configure python code files
-  cd ~/catkin_ws/src/lane_following/scripts/
+  cd ~/catkin_ws/src/EE346-lab4/lane_following/scripts/
    
   chmod +x lane_following_part1.py
    
