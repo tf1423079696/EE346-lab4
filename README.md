@@ -6,7 +6,7 @@ Here are the lab codes for SUSTech EE346 lab4.
 ## 1. Clone the source code
   cd ~/catkin_ws/src
   
-  git clone git@github.com:zhaojieting/lane_following.git
+  git clone https://github.com/tf1423079696/EE346-lab4.git
   
 ## 2. Catkin make the lane following package
   cd ..
